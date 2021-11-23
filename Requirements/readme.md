@@ -1,7 +1,7 @@
 # Requirements
 ## Introduction
 
-The mini Project Employee Management System is used for storing the records of employees. In this project we can manage employee records – add, list, modify and delete records.This project will be useful for organisations for adding and modifying the records of employee.
+The mini Project Employee Management System is used for storing the records of employees. In this project we can manage employee records – add, view, update password, search and delete records.This project will be useful for organisations for adding and modifying the records of employee.
 
 
 ## Research
