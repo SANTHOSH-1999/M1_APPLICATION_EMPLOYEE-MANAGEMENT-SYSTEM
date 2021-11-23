@@ -1,3 +1,5 @@
+#ifndef _employeemanagement_H
+#define _employeemanagement_H
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
@@ -18,3 +20,4 @@ void menu();
 void login();
 void init();
 int isFileExists(const char *path);
+#endif
