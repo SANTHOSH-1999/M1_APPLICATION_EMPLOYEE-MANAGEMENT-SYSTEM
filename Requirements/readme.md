@@ -6,7 +6,7 @@ The mini Project Employee Management System is used for storing the records of e
 
 ## Research
 
-The Employee Management System was created in a simple console application where the system can be accessed without providing any login information. In the system, we can add new employee, view all employees, search employee , update password and delete employee record. The system contains function that can manage the employee information being stored in the system. The follow operations can be done in this system,
+The Employee Management System was created in a simple console application where the system can be accessed with providing  login information. In the system, we can add new employee, view all employees, search employee , update password and delete employee record. The system contains function that can manage the employee information being stored in the system. The follow operations can be done in this system,
 
 - Add employee name
 - View all employees
