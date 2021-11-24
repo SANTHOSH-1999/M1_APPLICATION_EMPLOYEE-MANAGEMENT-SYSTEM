@@ -69,7 +69,7 @@ This project works on C programming language.
 | 2 | Data are stored as "record.txt" in the system folder | IMPLEMENTED |
 | 3 | Structure has the data type of  employee id , father name, employee name, employee address, employee salary and date | IMPLEMENTED |
 
-
+# High level design
 # Structural diagram
 ![behavior diagram drawio](https://user-images.githubusercontent.com/94223235/143049197-587fd6b9-dc27-4da3-a536-fc818a163f5d.png)
 
@@ -77,13 +77,41 @@ This project works on C programming language.
 # Behavioural diagram
 ![activity drawio](https://user-images.githubusercontent.com/94223235/143090493-add13664-7330-466f-a490-df2027efa72c.png)
 
-
+# Low level design
 # Structural diagram
 ![component diagram drawio](https://user-images.githubusercontent.com/94223235/143087241-e3f64d9b-e90f-44ef-9252-0c73e72f4495.png)
 
 
 # Behavioural diagram
 ![deployment drawio](https://user-images.githubusercontent.com/94223235/143088468-271b979e-03a2-4129-97f8-b36385daa392.png)
+
+
+# Test Plan
+
+---
+
+## High Level Test Plan
+
+---
+
+| TestID | Description                                                                                                                                  | Exp I/P | Exp O/P                       | Actual O/P                    | Type of Test      |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------- | ----------------------------- | ----------------- |
+| 1   | System login                  | username, password    | login successful to main menu                        | login successful to main menu                         | Requirement Based |
+| 2  | Add employee                                                                                                       | employee details   | saved details                      | saved details                      | Requirement Based |
+| 3   | Search employee                                                                                                  | employee id    | employee details | employee details | Requirement Based    |
+| 4  | View employee                                                                                                             |      | saved details     | saved details       | Requirement based    |
+| 5  | Delete employee                                                                                       | employee id    | deleted record                       | deleted record                      | Requirement Based |
+| 6  | Update password | new password  | updated password                    | updated password                     | Requirement Based |
+
+## Low Level Test Plan
+
+---
+
+| TestID | Description                                                                                 | Exp I/P       | Exp O/P                  | Actual O/P               | Type of Test      |
+| ------ | ------------------------------------------------------------------------------------------- | ------------- | ------------------------ | ------------------------ | ----------------- |
+| 1   |  System login             | username, password      | login successful to main menu                    | login successful to main menu            | Requirement Based |
+| 2  |   Add employee                          |     employee details       |           saved details           |  saved details                 | Requirement Based |
+
 
 
 
