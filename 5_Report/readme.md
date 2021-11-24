@@ -68,3 +68,13 @@ This project works on C programming language.
 | 1 |Function prototype as add,update,delete,view and search| IMPLEMENTED |
 | 2 | Data are stored as "record.txt" in the system folder | IMPLEMENTED |
 | 3 | Structure has the data type of  employee id , father name, employee name, employee address, employee salary and date | IMPLEMENTED |
+
+
+# Structural diagram
+![behavior diagram drawio](https://user-images.githubusercontent.com/94223235/143049197-587fd6b9-dc27-4da3-a536-fc818a163f5d.png)
+
+
+# Behavioural diagram
+![activity drawio](https://user-images.githubusercontent.com/94223235/143090493-add13664-7330-466f-a490-df2027efa72c.png)
+
+
