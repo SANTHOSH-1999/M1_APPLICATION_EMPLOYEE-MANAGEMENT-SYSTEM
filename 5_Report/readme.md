@@ -27,8 +27,8 @@ File handling, functions and structures are the main things which make up this p
 4.View employee details: lists all the employee details stored in file with their respective employee details.
 5.Search employee: based on employee id.
 
-Timeline: 20 years before = paper and pen,
-          10 years before = documents,
+Timeline: 50 years before = documents,
+          25 years before = documents,
            present        = system memory.
 ## Defining our system
 
