@@ -1,8 +1,4 @@
 #include "employee_management.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <string.h>
 //Used macro
 #define MAX_YR  9999
 #define MIN_YR  1900
